@@ -4,4 +4,4 @@ A simple author admin app for adding, editing, and deleting authors.
 2. Run npm install
 3. Run gulp 
 
-Inspired by the Pluralsight tutorial by Cory House
+Inspired from Pluralsight tutorial by Cory House
